@@ -1,2 +1,12 @@
-# ZJUT Online Judge
- 浙江工业大学 Online Judge 题解
+# 我发现GitHub上好像没有浙江工业大学 Online Judge 的题解，我先来占个坑，哈哈哈
+如果仓库中现有代码有问题，欢迎通过提issue方式给我发送bug report，并附上你认为的正确的题解代码。
+
+
+欢迎各位大佬提供其他题目和Java、Python等其他语言的题解，直接给我发pull request就可以了，注意格式和适当的注释哟。
+
+
+浙江工业大学ACM测试集网站：
+
+http://acm.zjut.edu.cn/ 校内访问
+
+http://47.96.162.210/ 校外访问
